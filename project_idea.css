@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+header
+{
+ background-image: url(/HTML/scott-blake-3S_5Pq6k33Q-unsplash.jpg );
+ width:auto;
+ height: 700px;
+ background-size: cover;
+ background-position:center;
+}
+p
+{
+    color:lime ;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h1
+{
+    color:lime;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
